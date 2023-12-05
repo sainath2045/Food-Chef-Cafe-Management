@@ -1,8 +1,8 @@
 <?php 
-define('BASEURL','http://localhost/project/');
-define('HOSTNAME','localhost');
-define('USERNAME','root');
-define('PASSWORD','');
+define('BASEURL','http://jyosql.mysql.database.azure.com/project/');
+define('HOSTNAME','jyosql.mysql.database.azure.com');
+define('USERNAME','jyo');
+define('PASSWORD','qwerty@12345');
 define('DB','project');
 
 
